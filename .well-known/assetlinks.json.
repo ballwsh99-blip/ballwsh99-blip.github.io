@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ballwsh99_blip.twa",
+        "sha256_cert_fingerprints": ["47:10:D8:8C:A3:28:1B:16:73:8C:49:32:8C:2E:F7:DE:A1:E6:A3:05:8E:AA:32:72:D6:DD:F5:28:37:0E:CA:2F"]
+      }
+    }]
